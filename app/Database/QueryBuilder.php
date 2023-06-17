@@ -81,7 +81,7 @@ class QueryBuilder
     public function delete()
     {
         try {
-            $sql = $this->sql->deleteQuery($this, []);
+            $sql = $this->sql->deleteQuery($this);
           
             return $this->connection->delete($sql, $this->wheres);
         } catch (\Exception $e) {
