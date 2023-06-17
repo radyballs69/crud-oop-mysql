@@ -1,6 +1,6 @@
 ## About the Project
 
-Simple PHP CRUD OOP with MySQL, JQuery and Bootstrap. Query Builder inspired ("copy") from [Laravel](https://laravel.com/docs).
+Simple PHP CRUD OOP with MySQL, JQuery and Bootstrap. Project structure and Query Builder inspired ("copy") from [Laravel](https://laravel.com/docs).
 
 ## Tech Stack Used
 
